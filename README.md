@@ -3,7 +3,12 @@ To view all the code and files [click here](https://github.com/amaheshwari01/Mac
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Problem Statement
+The problem is that people from supermarkets have trouble finding out which products will sell and which ones will sell and which one will not which causes them to waste a lot of money trying and testing products
+### Data Import and Wrangling
+In this project I had to do a lot of data wrangling and cleaning of the data. Since there were many ways the data was written since there were different ways the data was written for example the low fat was also writing as LF which we had to replace(look at the fat section from before and after data wrangling graphs) there were many missing values which we had to impute and that there were.
+ 
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
