@@ -22,4 +22,4 @@ This project helps people from supermarkets and helps them decide which products
 ### Conclusion 
 In conclusion i was able to get an R2 of 0.564684 using the LM model.Which is pretty good for this situation. Throughout this project I was able to learn about the different types of encodings and how they impact the model. I also learnt the importance of the data wrangling and how that takes up most of the time when building a model.
 
-![hello](new graph after data wrangling) 
+![hello](new graph after data wrangling.png) 
