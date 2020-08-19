@@ -21,5 +21,8 @@ Deciding which feature to drop or not
 This project helps people from supermarkets and helps them decide which products will sell and which wouldn't. This saves them a lot of money and it could also help smaller stores since they can’t afford to buy random things and see if it sells but instead they can use this model to see which items to sell.
 ### Conclusion 
 In conclusion i was able to get an R2 of 0.564684 using the LM model.Which is pretty good for this situation. Throughout this project I was able to learn about the different types of encodings and how they impact the model. I also learnt the importance of the data wrangling and how that takes up most of the time when building a model.
+### Graph before data wrangling
+![hello](graph before data wrangling.png) 
 
+### Graph after data wrangling
 ![hello](new graph after data wrangling.png) 
